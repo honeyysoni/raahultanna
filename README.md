@@ -35,5 +35,3 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raahultanna&layout=compact)](https://github.com/raahultanna/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=raahultanna)](https://github.com/raahultanna/github-readme-stats)
-

@@ -5,7 +5,7 @@
 ### I'm a Student, Undergraduate, Developer,and Writer!
 
 <!--
-**raahultanna/raahultanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**raahultanna/raahultanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Here are some ideas to get you started:
 
@@ -15,17 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rahul.tanna94@gmail.com
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I'm a great story teller!
--->
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  
-<a href="https://www.linkedin.com/in/rahultanna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raahultanna" height="30" width="40" /></a>
-
-<a href="https://twitter.com/Raahultanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raahultanna" height="30" width="40" /></a>
-
-<a href="https://www.instagram.com/raaahul.tanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raahultanna" height="30" width="40" /></a>
+<p align="left"> <a href="https://www.linkedin.com/in/rahultanna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raahultanna" height="30" width="40" /></a> <a href="https://twitter.com/Raahultanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="raahultanna" height="30" width="40" /></a> <a href="https://www.instagram.com/raaahul.tanna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="raahultanna" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

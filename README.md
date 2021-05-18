@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rahul Tanna -aka Captain Nemo</h1>
 
-### I'm a Student, Undergraduate, Developer,and Writer!
+### I'm a Student, Undergraduate, Developer, and Writer!
 
 <!--
 **raahultanna/raahultanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
